@@ -1,53 +1,93 @@
 {
+    "mobileWidthInPercentage": 0.37265625,
     "boxShadow": "none",
     "widgetName": "Insert_Modal",
-    "topRow": 16,
-    "bottomRow": 40,
+    "widthInPercentage": 0.37265625,
+    "topRow": 58.80000000000001,
+    "bottomRow": 92.60000000000001,
     "parentRowSpace": 10,
     "type": "MODAL_WIDGET",
     "shouldScrollContents": false,
     "parentColumnSpace": 18.8828125,
     "dynamicTriggerPathList": [],
-    "leftColumn": 17,
+    "leftColumn": 20,
     "dynamicBindingPathList": [],
     "children": [{
-        "labelTextSize": "0.875rem",
         "boxShadow": "none",
         "widgetName": "Canvas4",
-        "rightColumn": 453.1875,
-        "detachFromLayout": true,
-        "widgetId": "9rhv3ioohq",
         "topRow": 0,
-        "bottomRow": 380,
+        "bottomRow": 338,
         "parentRowSpace": 1,
-        "isVisible": "true",
         "canExtend": true,
         "type": "CANVAS_WIDGET",
-        "version": 1,
-        "parentId": "vmorzie6eq",
         "shouldScrollContents": false,
-        "minHeight": 380,
-        "isLoading": false,
+        "minHeight": 290,
+        "useAutoLayout": true,
         "parentColumnSpace": 1,
         "dynamicTriggerPathList": [],
         "leftColumn": 0,
         "dynamicBindingPathList": [],
+        "positioning": "vertical",
+        "isDisabled": false,
+        "labelTextSize": "0.875rem",
+        "rightColumn": 453.1875,
+        "detachFromLayout": true,
+        "widgetId": "9rhv3ioohq",
+        "isVisible": "true",
+        "version": 1,
+        "parentId": "vmorzie6eq",
+        "isLoading": false,
+        "responsiveBehavior": "fill",
         "borderRadius": "0px",
-        "isDisabled": false
+        "flexLayers": [
+            {"children": [{
+                "id": "18x7vdv3gs",
+                "align": "start"
+            }]},
+            {"children": [
+                {
+                    "id": "h1wbbv7alb",
+                    "align": "center"
+                },
+                {
+                    "id": "8dlz6tzk85",
+                    "align": "center"
+                }
+            ]},
+            {"children": [{
+                "id": "6enalyprua",
+                "align": "center"
+            }]},
+            {"children": [{
+                "id": "e490gfts69",
+                "align": "center"
+            }]},
+            {"children": [
+                {
+                    "id": "o23gs26wm5",
+                    "align": "end"
+                },
+                {
+                    "id": "h8vxf3oh4s",
+                    "align": "end"
+                }
+            ]}
+        ]
     }],
-    "height": 380,
+    "height": 340,
     "labelTextSize": "0.875rem",
-    "rightColumn": 41,
+    "rightColumn": 44,
     "detachFromLayout": true,
-    "dynamicHeight": "FIXED",
+    "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "vmorzie6eq",
     "canOutsideClickClose": true,
     "canEscapeKeyClose": true,
     "version": 2,
     "parentId": "0",
     "isLoading": false,
+    "responsiveBehavior": "hug",
     "borderRadius": "0px",
     "maxDynamicHeight": 9000,
     "width": 532,
-    "minDynamicHeight": 4
+    "minDynamicHeight": 8
 }

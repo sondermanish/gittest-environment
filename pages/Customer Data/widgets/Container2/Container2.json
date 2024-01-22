@@ -9,8 +9,8 @@
     ],
     "displayName": "Container",
     "iconSVG": "/static/media/icon.1977dca3.svg",
-    "topRow": 14,
-    "bottomRow": 57,
+    "topRow": 0,
+    "bottomRow": 39,
     "parentRowSpace": 10,
     "type": "CONTAINER_WIDGET",
     "hideCard": false,
@@ -18,21 +18,23 @@
     "animateLoading": true,
     "parentColumnSpace": 18.0625,
     "dynamicTriggerPathList": [],
-    "leftColumn": 42,
+    "leftColumn": 32,
     "dynamicBindingPathList": [{"key": "isVisible"}],
     "children": [{
         "boxShadow": "none",
         "widgetName": "Canvas5",
         "displayName": "Canvas",
         "topRow": 0,
-        "bottomRow": 430,
+        "bottomRow": 390,
         "parentRowSpace": 1,
         "type": "CANVAS_WIDGET",
         "canExtend": false,
         "hideCard": true,
-        "minHeight": 400,
+        "minHeight": 350,
+        "useAutoLayout": true,
         "parentColumnSpace": 1,
         "leftColumn": 0,
+        "positioning": "vertical",
         "key": "ujn55l8yc3",
         "labelTextSize": "0.875rem",
         "rightColumn": 433.5,
@@ -44,22 +46,65 @@
         "parentId": "qe5zb4l34d",
         "renderMode": "CANVAS",
         "isLoading": false,
-        "borderRadius": "0px"
+        "responsiveBehavior": "fill",
+        "borderRadius": "0px",
+        "flexLayers": [
+            {"children": [{
+                "id": "4hnz8ktmz5",
+                "align": "end"
+            }]},
+            {"children": [{
+                "id": "in8e51pg3y",
+                "align": "center"
+            }]},
+            {"children": [{
+                "id": "mlhvfasf31",
+                "align": "center"
+            }]},
+            {"children": [{
+                "id": "0lz9vhcnr0",
+                "align": "center"
+            }]},
+            {"children": [
+                {
+                    "id": "gqpwf0yng6",
+                    "align": "center"
+                },
+                {
+                    "id": "x6j938ot2g",
+                    "align": "center"
+                }
+            ]},
+            {"children": [
+                {
+                    "id": "twwgpz5wfu",
+                    "align": "center"
+                },
+                {
+                    "id": "4gnygu5jew",
+                    "align": "center"
+                }
+            ]}
+        ]
     }],
     "borderWidth": "0",
     "key": "rvfae8ssjn",
+    "flexVerticalAlignment": "stretch",
     "labelTextSize": "0.875rem",
     "backgroundColor": "#FFFFFF",
-    "rightColumn": 56,
-    "dynamicHeight": "FIXED",
+    "rightColumn": 64,
+    "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "qe5zb4l34d",
     "containerStyle": "card",
+    "minWidth": 450,
     "isVisible": "{{!!data_table.selectedRow._id}}",
     "version": 1,
     "parentId": "0",
     "renderMode": "CANVAS",
     "isLoading": false,
+    "responsiveBehavior": "fill",
     "borderRadius": "15px",
     "maxDynamicHeight": 9000,
+    "alignment": "center",
     "minDynamicHeight": 4
 }

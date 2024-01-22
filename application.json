@@ -13,15 +13,15 @@
       "isDefault": false
     },
     {
-      "id": "Home",
+      "id": "Query Testing",
       "isDefault": true
     },
     {
-      "id": "Query Testing",
+      "id": "License Expiry",
       "isDefault": false
     },
     {
-      "id": "License Expiry",
+      "id": "Tic-tac-toe",
       "isDefault": false
     }
   ],
@@ -29,6 +29,9 @@
   "appIsExample": false,
   "unreadCommentThreads": 0,
   "unpublishedApplicationDetail": {
+    "appPositioning": {
+      "type": "AUTO"
+    },
     "navigationSetting": {
       "showNavbar": true,
       "orientation": "side",
