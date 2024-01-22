@@ -13,12 +13,8 @@
       "isDefault": false
     },
     {
-      "id": "Home",
-      "isDefault": true
-    },
-    {
       "id": "Query Testing",
-      "isDefault": false
+      "isDefault": true
     },
     {
       "id": "License Expiry",
