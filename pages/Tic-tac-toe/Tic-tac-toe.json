@@ -9,7 +9,7 @@
           "mobileBottomRow": 730,
           "widgetName": "MainContainer",
           "topRow": 0,
-          "bottomRow": 380,
+          "bottomRow": 478,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
@@ -30,6 +30,14 @@
           "mobileTopRow": 0,
           "responsiveBehavior": "fill",
           "flexLayers": [
+            {
+              "children": [
+                {
+                  "id": "59f3najral",
+                  "align": "start"
+                }
+              ]
+            },
             {
               "children": [
                 {
@@ -71,10 +79,14 @@
                 {
                   "id": "li1ztw2rvv",
                   "align": "start"
-                },
+                }
+              ]
+            },
+            {
+              "children": [
                 {
-                  "id": "pczfy8f4b9",
-                  "align": "start"
+                  "id": "wr514654lg",
+                  "align": "center"
                 }
               ]
             }

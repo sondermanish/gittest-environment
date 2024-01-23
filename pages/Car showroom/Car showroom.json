@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1704.0000000000005,
+          "bottomRow": 1694.0000000000005,
           "containerStyle": "none",
           "snapRows": 125,
           "parentRowSpace": 1,
@@ -66,6 +66,16 @@
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            },
+            {
+              "id": "Car showroom_select_showroom_db",
+              "name": "select_showroom_db",
+              "confirmBeforeExecute": false,
+              "pluginType": "DB",
+              "jsonPathKeys": [
+                "(List.pageNo - 1) * 5"
+              ],
               "timeoutInMillisecond": 10000
             }
           ],
