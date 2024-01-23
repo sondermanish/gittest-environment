@@ -1,34 +1,38 @@
 {
+    "mobileWidthInPercentage": 0.37265625,
     "boxShadow": "none",
     "widgetName": "form_modal",
+    "widthInPercentage": 0.37265625,
     "isCanvas": true,
     "displayName": "Modal",
     "iconSVG": "/static/media/icon.4975978e.svg",
-    "topRow": 22,
-    "bottomRow": 46,
+    "topRow": 87.80000000000001,
+    "bottomRow": 162.40000000000003,
     "parentRowSpace": 10,
     "type": "MODAL_WIDGET",
     "hideCard": false,
     "shouldScrollContents": true,
     "animateLoading": true,
     "parentColumnSpace": 14.0625,
-    "leftColumn": 4,
+    "leftColumn": 20,
     "dynamicBindingPathList": [],
     "children": [{
         "boxShadow": "none",
         "widgetName": "Canvas20",
         "displayName": "Canvas",
         "topRow": 0,
-        "bottomRow": 750,
+        "bottomRow": 746.0000000000001,
         "parentRowSpace": 1,
         "type": "CANVAS_WIDGET",
         "canExtend": true,
         "hideCard": true,
         "shouldScrollContents": false,
-        "minHeight": 754,
+        "minHeight": 590,
+        "useAutoLayout": true,
         "parentColumnSpace": 1,
         "leftColumn": 0,
         "dynamicBindingPathList": [],
+        "positioning": "vertical",
         "isDisabled": false,
         "key": "ori7a9fqu2",
         "labelTextSize": "0.875rem",
@@ -40,14 +44,157 @@
         "parentId": "l70rv2hbfm",
         "renderMode": "CANVAS",
         "isLoading": false,
-        "borderRadius": "0px"
+        "responsiveBehavior": "fill",
+        "borderRadius": "0px",
+        "flexLayers": [
+            {"children": [
+                {
+                    "id": "k9hk0686o7",
+                    "align": "center"
+                },
+                {
+                    "id": "2jfp4uualn",
+                    "align": "center"
+                }
+            ]},
+            {"children": [
+                {
+                    "id": "pbooioft8y",
+                    "align": "center"
+                },
+                {
+                    "id": "6fmqd3dav9",
+                    "align": "center"
+                }
+            ]},
+            {"children": [
+                {
+                    "id": "z7xuudh458",
+                    "align": "center"
+                },
+                {
+                    "id": "q6ha4ntxtq",
+                    "align": "center"
+                }
+            ]},
+            {"children": [
+                {
+                    "id": "5xjllth40s",
+                    "align": "center"
+                },
+                {
+                    "id": "37o9f0vtg2",
+                    "align": "center"
+                }
+            ]},
+            {"children": [
+                {
+                    "id": "1x1a5rh559",
+                    "align": "center"
+                },
+                {
+                    "id": "h83d3kzqwh",
+                    "align": "center"
+                }
+            ]},
+            {"children": [
+                {
+                    "id": "kudjixv5r5",
+                    "align": "center"
+                },
+                {
+                    "id": "ghvhda7tzu",
+                    "align": "center"
+                }
+            ]},
+            {"children": [
+                {
+                    "id": "p9p55cwy4j",
+                    "align": "start"
+                },
+                {
+                    "id": "o723laq8xz",
+                    "align": "end"
+                }
+            ]},
+            {"children": [
+                {
+                    "id": "a82pt2a0vq",
+                    "align": "center"
+                },
+                {
+                    "id": "fuxq91idgl",
+                    "align": "center"
+                }
+            ]},
+            {"children": [
+                {
+                    "id": "f5ndc0ycu6",
+                    "align": "center"
+                },
+                {
+                    "id": "je1a40wo99",
+                    "align": "center"
+                }
+            ]},
+            {"children": [
+                {
+                    "id": "wxadjdkpcw",
+                    "align": "center"
+                },
+                {
+                    "id": "vfma3pa3lk",
+                    "align": "center"
+                }
+            ]},
+            {"children": [
+                {
+                    "id": "ohyh4bbd1d",
+                    "align": "center"
+                },
+                {
+                    "id": "p4qck5f522",
+                    "align": "center"
+                }
+            ]},
+            {"children": [
+                {
+                    "id": "2xr5hf5tp2",
+                    "align": "start"
+                },
+                {
+                    "id": "0pbmigpt8w",
+                    "align": "start"
+                }
+            ]},
+            {"children": [
+                {
+                    "id": "us80nij3mf",
+                    "align": "center"
+                },
+                {
+                    "id": "2ol8vl33yg",
+                    "align": "center"
+                }
+            ]},
+            {"children": [
+                {
+                    "id": "6klehyvx64",
+                    "align": "end"
+                },
+                {
+                    "id": "o3fm29zg47",
+                    "align": "end"
+                }
+            ]}
+        ]
     }],
     "key": "ula8g3dgnm",
-    "height": 754,
+    "height": 748.0000000000001,
     "labelTextSize": "0.875rem",
-    "rightColumn": 28,
+    "rightColumn": 44,
     "detachFromLayout": true,
-    "dynamicHeight": "FIXED",
+    "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "l70rv2hbfm",
     "canOutsideClickClose": true,
     "canEscapeKeyClose": true,
@@ -55,8 +202,9 @@
     "parentId": "0",
     "renderMode": "CANVAS",
     "isLoading": false,
+    "responsiveBehavior": "hug",
     "borderRadius": "0px",
     "maxDynamicHeight": 9000,
     "width": 496,
-    "minDynamicHeight": 4
+    "minDynamicHeight": 8
 }

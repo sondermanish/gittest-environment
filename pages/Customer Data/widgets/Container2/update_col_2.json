@@ -1,8 +1,10 @@
 {
+    "mobileWidthInPercentage": 0.45263671875,
     "boxShadow": "none",
     "widgetName": "update_col_2",
-    "topRow": 14,
-    "bottomRow": 20,
+    "widthInPercentage": 0.45263671875,
+    "topRow": 12.4,
+    "bottomRow": 18.4,
     "parentRowSpace": 10,
     "type": "INPUT_WIDGET",
     "parentColumnSpace": 8.8963623046875,
@@ -17,6 +19,7 @@
     "inputType": "TEXT",
     "isDisabled": false,
     "validation": "true",
+    "flexVerticalAlignment": "end",
     "labelTextSize": "0.875rem",
     "isRequired": true,
     "rightColumn": 62,
@@ -27,6 +30,8 @@
     "version": 1,
     "parentId": "52qrodu5iz",
     "isLoading": false,
+    "responsiveBehavior": "hug",
     "borderRadius": "0px",
-    "defaultText": "{{data_table.selectedRow.CustomerEmailID}}"
+    "defaultText": "{{data_table.selectedRow.CustomerEmailID}}",
+    "alignment": "center"
 }
