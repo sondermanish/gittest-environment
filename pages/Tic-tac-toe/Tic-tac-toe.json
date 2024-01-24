@@ -1,0 +1,110 @@
+{
+  "unpublishedPage": {
+    "name": "Tic-tac-toe",
+    "slug": "tic-tac-toe",
+    "layouts": [
+      {
+        "viewMode": false,
+        "dsl": {
+          "mobileBottomRow": 730,
+          "widgetName": "MainContainer",
+          "topRow": 0,
+          "bottomRow": 478,
+          "parentRowSpace": 1,
+          "type": "CANVAS_WIDGET",
+          "canExtend": true,
+          "minHeight": 730,
+          "useAutoLayout": true,
+          "parentColumnSpace": 1,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
+          "positioning": "vertical",
+          "backgroundColor": "none",
+          "rightColumn": 1224,
+          "snapColumns": 64,
+          "detachFromLayout": true,
+          "widgetId": "0",
+          "containerStyle": "none",
+          "snapRows": 71,
+          "version": 87,
+          "mobileTopRow": 0,
+          "responsiveBehavior": "fill",
+          "flexLayers": [
+            {
+              "children": [
+                {
+                  "id": "59f3najral",
+                  "align": "start"
+                }
+              ]
+            },
+            {
+              "children": [
+                {
+                  "id": "9d5mnwots8",
+                  "align": "start"
+                },
+                {
+                  "id": "r78io5cfi4",
+                  "align": "start"
+                },
+                {
+                  "id": "fywcnfh1wf",
+                  "align": "start"
+                }
+              ]
+            },
+            {
+              "children": [
+                {
+                  "id": "fxesdyq4eh",
+                  "align": "start"
+                },
+                {
+                  "id": "6gkr7sw3h9",
+                  "align": "start"
+                },
+                {
+                  "id": "iw9nte1yss",
+                  "align": "start"
+                }
+              ]
+            },
+            {
+              "children": [
+                {
+                  "id": "4x0tjhe7jy",
+                  "align": "start"
+                },
+                {
+                  "id": "li1ztw2rvv",
+                  "align": "start"
+                }
+              ]
+            },
+            {
+              "children": [
+                {
+                  "id": "wr514654lg",
+                  "align": "center"
+                }
+              ]
+            }
+          ]
+        },
+        "layoutOnLoadActions": [],
+        "layoutOnLoadActionErrors": [],
+        "validOnPageLoadActions": true,
+        "id": "Tic-tac-toe",
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
+      }
+    ],
+    "userPermissions": [],
+    "policies": [],
+    "isHidden": false
+  },
+  "deleted": false,
+  "gitSyncId": "65aa5c474db1080c0a89c1c3_65adf93f4db1080c0a89cf93"
+}
