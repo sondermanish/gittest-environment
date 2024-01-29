@@ -1,27 +1,15 @@
 {
   "pages": [
     {
-      "id": "Customer Data",
-      "isDefault": false
-    },
-    {
-      "id": "Car servicing",
-      "isDefault": false
-    },
-    {
-      "id": "Car showroom",
-      "isDefault": false
-    },
-    {
       "id": "Query Testing",
       "isDefault": true
     },
     {
-      "id": "License Expiry",
+      "id": "new-tic-tac-toe",
       "isDefault": false
     },
     {
-      "id": "new-tic-tac-toe",
+      "id": "Pure CSS TTT",
       "isDefault": false
     }
   ],
