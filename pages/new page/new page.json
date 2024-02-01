@@ -1,40 +1,38 @@
 {
   "unpublishedPage": {
-    "name": "new-tic-tac-toe",
-    "slug": "new-tic-tac-toe",
+    "name": "new page",
+    "slug": "new-page",
     "layouts": [
       {
         "viewMode": false,
         "dsl": {
-          "mobileBottomRow": 730,
           "widgetName": "MainContainer",
-          "topRow": 0,
-          "bottomRow": 890,
-          "parentRowSpace": 1,
-          "type": "CANVAS_WIDGET",
-          "canExtend": true,
-          "minHeight": 730,
-          "useAutoLayout": true,
-          "parentColumnSpace": 1,
-          "dynamicBindingPathList": [],
-          "leftColumn": 0,
-          "positioning": "vertical",
           "backgroundColor": "none",
           "rightColumn": 1224,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
+          "topRow": 0,
+          "bottomRow": 380,
           "containerStyle": "none",
-          "snapRows": 71,
-          "version": 87,
-          "mobileTopRow": 0,
+          "snapRows": 69,
+          "parentRowSpace": 1,
+          "type": "CANVAS_WIDGET",
+          "canExtend": true,
+          "version": 88,
+          "minHeight": 710,
+          "useAutoLayout": true,
+          "parentColumnSpace": 1,
           "responsiveBehavior": "fill",
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
+          "positioning": "vertical",
           "flexLayers": [
             {
               "children": [
                 {
-                  "id": "47aemcv0c1",
-                  "align": "center"
+                  "id": "w6k0kun64f",
+                  "align": "start"
                 }
               ]
             }
@@ -43,7 +41,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "new-tic-tac-toe",
+        "id": "new page",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -54,5 +52,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "65b09c451514e40dd22c5787_65b0a0d58b5e626946f3ab1a"
+  "gitSyncId": "65bbb37a989c1954cf994967_65bbb454989c1954cf9949a8"
 }
